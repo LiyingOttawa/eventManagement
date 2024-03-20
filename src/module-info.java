@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Glily
- *
- */
-module eventManagement {
-}
